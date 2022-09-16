@@ -1,0 +1,40 @@
+
+ul{
+    text-align: left;
+    color: white;
+    font-size: 0.7cm;
+}
+
+
+.all{
+    background-image: url("../../image/spotify-6739340_1280.jpg")
+}
+.container{
+    border: 5px solid white;
+    border-radius: 30px;
+    background-color: rgba(64, 70, 68, 0.687);
+}
+.accueil{
+    border: 5px solid white;
+    border-radius: 30px;
+    margin-right: 1000;
+    background-color: rgba(64, 70, 68, 0.687);
+}
+.playlist{
+    border: 5px solid white;
+    border-radius: 30px;
+    background-color: rgba(64, 70, 68, 0.687); 
+    text-align: center;
+    margin-left: 300;
+    margin-top : -200px;
+    
+
+}
+.premium{
+    text-align: center;
+    margin-top: 500px;
+
+}
+  
+
+
